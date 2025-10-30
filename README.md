@@ -1,4 +1,7 @@
 # Quick Setup Guide
+## Demo
+
+https://drive.google.com/file/d/19_cGUU8TWO4oPhqVsBI1SSWQbiv21NwI/view?usp=sharing
 
 ## Step-by-Step Setup (5 minutes)
 
